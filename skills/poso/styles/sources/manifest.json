@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "retrieved_at": "2026-11-22",
+  "sources": [
+    {
+      "id": "baoyu-minimal",
+      "repository": "https://github.com/JimLiu/baoyu-skills",
+      "revision": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "upstream_path": "skills/baoyu-xhs-images/references/presets/minimal.md",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c/skills/baoyu-xhs-images/references/presets/minimal.md",
+      "retrieved_at": "2026-11-22",
+      "snapshot": "styles/sources/baoyu-minimal.md",
+      "sha256": "c3a0c170e282f861d9a27af7e5004eb1309de3b0d188ecf7436203d98b9a7f62",
+      "license_id": "MIT",
+      "license_file": "licenses/baoyu-MIT.txt",
+      "content_scope": "selected original source text; images are linked only"
+    },
+    {
+      "id": "baoyu-warm",
+      "repository": "https://github.com/JimLiu/baoyu-skills",
+      "revision": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "upstream_path": "skills/baoyu-xhs-images/references/presets/warm.md",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c/skills/baoyu-xhs-images/references/presets/warm.md",
+      "retrieved_at": "2026-11-22",
+      "snapshot": "styles/sources/baoyu-warm.md",
+      "sha256": "beefce505f5e6f0f3cd094de5ad8998809e8021e26b87afa94c9546b3cd492cc",
+      "license_id": "MIT",
+      "license_file": "licenses/baoyu-MIT.txt",
+      "content_scope": "selected original source text; images are linked only"
+    },
+    {
+      "id": "baoyu-screen-print",
+      "repository": "https://github.com/JimLiu/baoyu-skills",
+      "revision": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "upstream_path": "skills/baoyu-xhs-images/references/presets/screen-print.md",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c/skills/baoyu-xhs-images/references/presets/screen-print.md",
+      "retrieved_at": "2026-11-22",
+      "snapshot": "styles/sources/baoyu-screen-print.md",
+      "sha256": "715fe4b0256eca78ebdaeee061af8b9163a0946022f7b25c7852f563cbfbbd0f",
+      "license_id": "MIT",
+      "license_file": "licenses/baoyu-MIT.txt",
+      "content_scope": "selected original source text; images are linked only"
+    },
+    {
+      "id": "baoyu-sketch-notes",
+      "repository": "https://github.com/JimLiu/baoyu-skills",
+      "revision": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "upstream_path": "skills/baoyu-xhs-images/references/presets/sketch-notes.md",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c/skills/baoyu-xhs-images/references/presets/sketch-notes.md",
+      "retrieved_at": "2026-11-22",
+      "snapshot": "styles/sources/baoyu-sketch-notes.md",
+      "sha256": "e91e0a7ec7f7de68327db14e2b6f96894e4955763d8ea7297013eb9a59e2d627",
+      "license_id": "MIT",
+      "license_file": "licenses/baoyu-MIT.txt",
+      "content_scope": "selected original source text; images are linked only"
+    },
+    {
+      "id": "baoyu-pop",
+      "repository": "https://github.com/JimLiu/baoyu-skills",
+      "revision": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "upstream_path": "skills/baoyu-xhs-images/references/presets/pop.md",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c/skills/baoyu-xhs-images/references/presets/pop.md",
+      "retrieved_at": "2026-11-22",
+      "snapshot": "styles/sources/baoyu-pop.md",
+      "sha256": "541eb5b2ea9a7c0c54b9a6153c773a2df6b0e454b7777d24a2cad4052d4242aa",
+      "license_id": "MIT",
+      "license_file": "licenses/baoyu-MIT.txt",
+      "content_scope": "selected original source text; images are linked only"
+    },
+    {
+      "id": "baoyu-retro",
+      "repository": "https://github.com/JimLiu/baoyu-skills",
+      "revision": "bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c",
+      "upstream_path": "skills/baoyu-xhs-images/references/presets/retro.md",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/bf1ff076e25f8da4a339eb1c8cf03361fea5ea4c/skills/baoyu-xhs-images/references/presets/retro.md",
+      "retrieved_at": "2026-11-22",
+      "snapshot": "styles/sources/baoyu-retro.md",
+      "sha256": "923c999be7969f300b3711efb96842c955a03272707ae56a8e8471d7fddcba83",
+      "license_id": "MIT",
+      "license_file": "licenses/baoyu-MIT.txt",
+      "content_scope": "selected original source text; images are linked only"
+    },
+    {
+      "id": "youmind-midnight-editorial",
+      "repository": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2",
+      "revision": "95eb5e7f9425a5db82639e904ba1a66578bdea44",
+      "upstream_path": "README.md",
+      "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/95eb5e7f9425a5db82639e904ba1a66578bdea44/README.md#no-21-social-media-post---gritty-midnight-convenience-store-magazine-cover",
+      "retrieved_at": "2026-11-22",
+      "snapshot": "styles/sources/youmind-midnight-editorial.md",
+      "sha256": "23729a27d88b40e190bf0c0a0b112ce5c8c09c85af2041a6bccff43160acf1f5",
+      "license_id": "CC-BY-4.0",
+      "license_file": "licenses/youmind-CC-BY-4.0.txt",
+      "content_scope": "selected original source text; images are linked only",
+      "original_author": "Tree.ai",
+      "original_post": "https://x.com/dreamchyzw/status/2123287151563436061#reversed-0",
+      "image_links": [
+        "https://cms-assets.youmind.com/media/1795161505777_qkuvzo_HXduKk9XEAAumrc.jpg"
+      ]
+    },
+    {
+      "id": "youmind-winter-scrapbook",
+      "repository": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2",
+      "revision": "95eb5e7f9425a5db82639e904ba1a66578bdea44",
+      "upstream_path": "README.md",
+      "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/95eb5e7f9425a5db82639e904ba1a66578bdea44/README.md#no-9-profile--avatar---winter-scrapbook-collage-portrait-prompt-for-gpt-image-2",
+      "retrieved_at": "2026-11-22",
+      "snapshot": "styles/sources/youmind-winter-scrapbook.md",
+      "sha256": "fd7d116801af283e7a645e9457fcbbbfb909b21793f9d2c68f4cf56bde4caab0",
+      "license_id": "CC-BY-4.0",
+      "license_file": "licenses/youmind-CC-BY-4.0.txt",
+      "content_scope": "selected original source text; images are linked only",
+      "original_author": "Wareen AI",
+      "original_post": "https://x.com/Wareenaa/status/2122551075098284096",
+      "image_links": [
+        "https://cms-assets.youmind.com/media/1794902292939_goxzzg_HXTQ8TVbkAEHSUJ.jpg"
+      ]
+    }
+  ]
+}

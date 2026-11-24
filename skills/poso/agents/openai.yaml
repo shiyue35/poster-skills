@@ -1,0 +1,4 @@
+interface:
+  display_name: "海报共创室"
+  short_description: "梳理海报阅读顺序，共创风格与版式，按委托交回探索样稿或可编辑工作稿"
+  default_prompt: "使用 $poso，按本轮用途梳理信息与版式，在约定的探索或单稿制作阶段交回结果。"

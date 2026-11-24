@@ -1,0 +1,183 @@
+{
+  "schema_version": 1,
+  "catalog_version": "1.0.0",
+  "updated_at": "2026-11-22",
+  "cards": [
+    {
+      "id": "BY-MINIMAL",
+      "name": "极简信息海报",
+      "tags": [
+        "极简",
+        "留白",
+        "真实主体",
+        "克制"
+      ],
+      "fit": [
+        "清晰专业的单一主题",
+        "中低密度活动或产品信息"
+      ],
+      "avoid": [
+        "靠大量装饰制造热闹",
+        "标题与多组正文争夺同一级"
+      ],
+      "availability": "active",
+      "version": "1.0.0",
+      "card": "styles/cards/BY-MINIMAL.md",
+      "source_id": "baoyu-minimal"
+    },
+    {
+      "id": "BY-WARM",
+      "name": "暖奶油生活感",
+      "tags": [
+        "奶油",
+        "温暖",
+        "亲和",
+        "手帐"
+      ],
+      "fit": [
+        "生活方式与友好邀约",
+        "需要温暖情绪的主体海报"
+      ],
+      "avoid": [
+        "严肃冷峻的品牌表达",
+        "低对比正文已影响阅读"
+      ],
+      "availability": "active",
+      "version": "1.0.0",
+      "card": "styles/cards/BY-WARM.md",
+      "source_id": "baoyu-warm"
+    },
+    {
+      "id": "BY-SCREEN-PRINT",
+      "name": "双色丝网印刷",
+      "tags": [
+        "双色",
+        "丝网",
+        "网点",
+        "高对比"
+      ],
+      "fit": [
+        "低到中密度的活动宣告",
+        "需要强烈图形记忆的海报"
+      ],
+      "avoid": [
+        "大量细字与复杂关系图",
+        "不允许任何主体风格化却要照搬剪影"
+      ],
+      "availability": "active",
+      "version": "1.0.0",
+      "card": "styles/cards/BY-SCREEN-PRINT.md",
+      "source_id": "baoyu-screen-print"
+    },
+    {
+      "id": "BY-SKETCH-NOTES",
+      "name": "手绘知识笔记",
+      "tags": [
+        "手绘",
+        "笔记",
+        "信息图",
+        "分区"
+      ],
+      "fit": [
+        "教程、步骤、知识摘要",
+        "能用示意人物表达的友好说明"
+      ],
+      "avoid": [
+        "必须原样保留照片却要求纯原始风格",
+        "大面积暗色、玻璃高光或拥挤装饰"
+      ],
+      "availability": "active",
+      "version": "1.0.0",
+      "card": "styles/cards/BY-SKETCH-NOTES.md",
+      "source_id": "baoyu-sketch-notes"
+    },
+    {
+      "id": "BY-POP",
+      "name": "波普活力宣告",
+      "tags": [
+        "波普",
+        "漫画",
+        "高饱和",
+        "活力"
+      ],
+      "fit": [
+        "青年活动、娱乐与醒目宣告",
+        "较短标题和清楚行动信息"
+      ],
+      "avoid": [
+        "克制高端品牌的既有母版",
+        "装饰造成正文与主体难辨"
+      ],
+      "availability": "active",
+      "version": "1.0.0",
+      "card": "styles/cards/BY-POP.md",
+      "source_id": "baoyu-pop"
+    },
+    {
+      "id": "BY-RETRO",
+      "name": "复古纸本记忆",
+      "tags": [
+        "复古",
+        "纸张",
+        "胶片",
+        "怀旧"
+      ],
+      "fit": [
+        "文化活动、故事与怀旧主题",
+        "允许纸本质感的系列"
+      ],
+      "avoid": [
+        "把低对比或模糊当成复古",
+        "精确信息被做旧遮挡"
+      ],
+      "availability": "active",
+      "version": "1.0.0",
+      "card": "styles/cards/BY-RETRO.md",
+      "source_id": "baoyu-retro"
+    },
+    {
+      "id": "YM-EDITORIAL-NIGHT",
+      "name": "街头印刷杂志",
+      "tags": [
+        "杂志",
+        "街头",
+        "网点",
+        "荧光点缀"
+      ],
+      "fit": [
+        "需要中心真实主体与杂志感的文化活动",
+        "有明确大标题和次级栏目"
+      ],
+      "avoid": [
+        "原样照抄日文、期号或条码",
+        "装饰栏目超过真实信息需求"
+      ],
+      "availability": "active",
+      "version": "1.0.0",
+      "card": "styles/cards/YM-EDITORIAL-NIGHT.md",
+      "source_id": "youmind-midnight-editorial"
+    },
+    {
+      "id": "YM-PAPER-COLLAGE",
+      "name": "柔纸手帐拼贴",
+      "tags": [
+        "手帐",
+        "拼贴",
+        "柔纸",
+        "真实主体"
+      ],
+      "fit": [
+        "亲和人物／宠物邀约与生活方式主题",
+        "以主体为中心的轻信息海报"
+      ],
+      "avoid": [
+        "不经确认改变头发、毛色、服装或身份",
+        "纸片贴纸淹没主题与关键信息"
+      ],
+      "availability": "active",
+      "version": "1.0.0",
+      "card": "styles/cards/YM-PAPER-COLLAGE.md",
+      "source_id": "youmind-winter-scrapbook"
+    }
+  ]
+}

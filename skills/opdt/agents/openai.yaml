@@ -1,0 +1,4 @@
+interface:
+  display_name: "开放首稿法"
+  short_description: "共创海报构图，按已选布局制作完整首稿，依据实稿反馈修改并按约定交回"
+  default_prompt: "使用 $opdt，按本轮授权共创构图、制作首稿或修改实稿，到我指定的位置交回结果。"
